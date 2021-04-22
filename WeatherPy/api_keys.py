@@ -1,5 +1,5 @@
 # OpenWeatherMap API Key
-weather_api_key = "fdb63e13b508a1ca724f42118c956d35"
+weather_api_key = "faa4097c834a073670d046049e538a7a"
 
 # Google API Key
 g_key = "YOUR KEY HERE!"
